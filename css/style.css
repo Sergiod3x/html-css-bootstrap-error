@@ -1,0 +1,51 @@
+/* Text align center center */
+.tac {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.border-g{
+    border: 4px rgb(0, 255, 13) solid;
+}
+
+.border-b{
+    border: 4px rgb(0, 255, 13) solid;
+    background-color: blueviolet;
+
+    
+}
+
+.hs{
+    height: 100px;
+}
+
+.bc{
+    background-color: blueviolet;
+}
+
+.color-fluid {
+    background-color: teal;
+}
+
+/* .container.due , .row.uno, .col.uno{
+    border: 1px #333 solid;
+    height: 100%;
+}
+
+.row.que {
+    border: 2px rgb(0, 0, 0) solid;
+    background-color: brown;
+    height: 100%;
+    
+    
+}
+
+.col.due{
+    border: 4px rgb(0, 255, 13) solid;
+    background-color: burlywood;
+}
+ */
+
+
+
